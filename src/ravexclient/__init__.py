@@ -28,7 +28,7 @@ __all__ = [
 ]
 
 
-def main() -> None:
+def main() -> None:  # pragma: no cover
     """Entry point for CLI if needed."""
     print("RavexClient v" + __version__)
     print("Base HTTP client library for building API clients.")

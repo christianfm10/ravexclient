@@ -61,3 +61,7 @@ dmypy.json
 
 # Logs
 *.log
+
+# Coverage reports
+.coverage
+coverage.*
