@@ -276,13 +276,12 @@ Las contribuciones son bienvenidas. Por favor:
 5. Crea un Pull Request
 
 ## 📄 Licencia
-
-[Especifica tu licencia aquí]
+MIT License
 
 ## 👤 Autor
 
 **Christian Flores**
-- Email: christian.flores@dekoding.pe
+- Email: christianmfm10@gmail.com
 
 ## 🔗 Links
 
